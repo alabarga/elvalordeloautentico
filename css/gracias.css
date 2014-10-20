@@ -1,0 +1,233 @@
+.version.gracias /* version checker */
+{
+	color: #0000FE;
+	background-color: #D82AFB;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/fondo.jpg") no-repeat left top scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 528px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-bottom: 171px;
+}
+
+#u216
+{
+	z-index: 21;
+	width: 97px;
+	margin-left: 863px;
+}
+
+#menuu102
+{
+	z-index: 2;
+	width: 333px;
+	top: -3px;
+	margin-bottom: -3px;
+}
+
+#u110
+{
+	width: 109px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u111
+{
+	width: 105px;
+	padding-bottom: 13px;
+}
+
+#u111:hover
+{
+	width: 105px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u111.MuseMenuActive
+{
+	width: 105px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u112-4
+{
+	width: 105px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 6px;
+}
+
+#u111:hover #u112-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u185
+{
+	width: 110px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 111px;
+}
+
+#u186
+{
+	width: 106px;
+	padding-bottom: 13px;
+}
+
+#u186:hover
+{
+	width: 106px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u188-4
+{
+	width: 106px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 6px;
+}
+
+#u111.MuseMenuActive #u112-4,#u186:hover #u188-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u192
+{
+	width: 110px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 223px;
+}
+
+#u195
+{
+	width: 106px;
+	padding-bottom: 13px;
+}
+
+#u186.MuseMenuActive,#u195:hover
+{
+	width: 106px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u195.MuseMenuActive
+{
+	width: 106px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u197-4
+{
+	width: 106px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 6px;
+}
+
+#u186.MuseMenuActive #u188-4,#u195:hover #u197-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u195.MuseMenuActive #u197-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u251
+{
+	z-index: 23;
+	width: 505px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;
+	padding-bottom: 17px;
+	margin-left: 228px;
+	margin-top: 53px;
+	position: relative;
+}
+
+#u252-10
+{
+	z-index: 24;
+	width: 436px;
+	min-height: 132px;
+	background-color: transparent;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 28px;
+	left: 34px;
+}
+
+#u252-2
+{
+	font-size: 30px;
+	line-height: 36px;
+	color: #E63A5B;
+	font-weight: bold;
+}
+
+#u252-3,#u252-5,#u252-6,#u252-8
+{
+	font-size: 16px;
+	line-height: 19px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

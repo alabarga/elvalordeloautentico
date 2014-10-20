@@ -1,0 +1,50 @@
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1413476728324">
+  <folder name="css">
+    <file name="site_global.css" crc="4232552975"/>
+    <file name="master_a-p_g_-maestra.css" crc="3930181998" ref="bases:compartir:index:gracias:ayuda"/>
+    <file name="bases.css" crc="4049584243" ref="bases"/>
+    <file name="compartir.css" crc="392870473" ref="compartir"/>
+    <file name="index.css" crc="4158902419" ref="index"/>
+    <file name="gracias.css" crc="4275579643" ref="gracias"/>
+    <file name="ayuda.css" crc="95424818" ref="ayuda"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:bases:ayuda:compartir:gracias"/>
+    <file name="museutils.js" crc="4136605575" ref="index:bases:ayuda:compartir:gracias"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="index:bases:ayuda:compartir:gracias"/>
+    <file name="pie.js" crc="3827607177" ref="index:compartir:gracias"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="index:bases:ayuda:compartir:gracias"/>
+    <file name="webpro.js" crc="420478120" ref="index:ayuda"/>
+    <file name="form_check.php" crc="313295658" ref="index:ayuda"/>
+    <file name="form_throttle.php" crc="254134657" ref="index:ayuda"/>
+    <file name="form_process.php" crc="3894569808" ref="index:ayuda"/>
+    <file name="form-u264.php" crc="95318654" ref="index"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index:bases:ayuda:compartir:gracias"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:bases:ayuda:compartir:gracias"/>
+    <file name="form-u223.php" crc="4108288697" ref="ayuda"/>
+  </folder>
+  <folder name="images">
+    <file name="fondo.jpg" crc="4288881949" ref="index:bases:ayuda:compartir:gracias"/>
+    <file name="logo_rg.png" crc="39768246" ref="index"/>
+    <file name="rg-positivo-ilustrator-sin-claim.png" crc="4205701865" ref="index:bases:ayuda:compartir:gracias"/>
+    <file name="u266-17.png" crc="45233536" ref="index"/>
+    <file name="u266-17-r.png" crc="4241734796" ref="index"/>
+    <file name="u266-17-m.png" crc="302792474" ref="index"/>
+    <file name="u266-17-fs.png" crc="3955149606" ref="index"/>
+    <file name="checkboxunchecked.jpg" crc="4028532441" ref="index"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="460745630" ref="index"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="4105190257" ref="index"/>
+    <file name="checkboxchecked.jpg" crc="4050656469" ref="index"/>
+    <file name="checkboxcheckedrollover.jpg" crc="419270246" ref="index"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="259332323" ref="index"/>
+    <file name="u233-17.png" crc="3835504439" ref="ayuda"/>
+    <file name="u233-17-r.png" crc="253483081" ref="ayuda"/>
+    <file name="u233-17-m.png" crc="253483081" ref="ayuda"/>
+    <file name="u233-17-fs.png" crc="224554591" ref="ayuda"/>
+  </folder>
+  <file name="index.html" crc="3872154900" mt="1413476664320" redirect="true"/>
+  <file name="bases.html" crc="13361359" mt="1413476574844" redirect="true"/>
+  <file name="ayuda.html" crc="4194677406" mt="1413476727919" redirect="true"/>
+  <file name="compartir.html" crc="3854625872" mt="1413476574846" redirect="true"/>
+  <file name="gracias.html" crc="312334712" mt="1413476574846" redirect="true"/>
+</manifest>
