@@ -42,7 +42,7 @@ angular.module('elValordeloAutentico', ['ngRoute'])
   .when('/ayuda', {
     templateUrl: 'ayuda.html',
     controller: 'HelpController'
-  });
+  })
   .when('/comparte/:projectId', {
     templateUrl: 'compartir.html',
     controller: 'HelpController'
